@@ -14,6 +14,7 @@ public class CoffeeUtils {
 		
 		UUID uid = UUID.randomUUID();
 		
+		System.out.println("어디 됩니까?");
 		return "";
 	}
 	
